@@ -22,6 +22,9 @@ then
     exit
 fi
 
+# Set environment to use expected CXX compiler
+export CXX=/usr/bin/g++
+
 # Ensure build directory exists
 mkdir -p build
 
