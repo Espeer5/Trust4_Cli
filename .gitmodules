@@ -1,0 +1,6 @@
+[submodule "Trust4_Cli"]
+	path = Trust4_Cli
+	url = git@github.com:Espeer5/Trust4_Cli.git
+[submodule "TRUST4"]
+	path = TRUST4
+	url = git@github.com:Espeer5/TRUST4.git
